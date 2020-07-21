@@ -1,0 +1,2 @@
+rootProject.name='day11_ease_ui'
+include ':app', ':easeui'
